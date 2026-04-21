@@ -105,9 +105,13 @@ La separación de estos tres tipos permite mantener el sistema ordenado y evitar
 ### 🏠 Vista general del dashboard
 
 ![Vista general](screenshots/Diagrama1.png)
+---
 ![Vista general](screenshots/Diagrama2.png)
+---
 ![Vista general](screenshots/Diagrama3.png)
+---
 ![Vista general](screenshots/Diagrama4.png)
+---
 ![Vista general](screenshots/Diagrama5.png)
 
 ---
